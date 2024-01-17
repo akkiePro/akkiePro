@@ -32,6 +32,6 @@
 <!-- Connect with Me -->
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
-  <a href="mailto:akashprajapati1849@gmail@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-Your%20Email-red" /></a>
-  <a href="https://www.linkedin.com/in/akash-prajapati-6378651b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue" /></a>
+  <a href="mailto:akashprajapati1849@gmail@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-Akash%20Prajapati-red" /></a>
+  <a href="https://www.linkedin.com/in/akash-prajapati-6378651b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Prajapati-blue" /></a>
 </p>
