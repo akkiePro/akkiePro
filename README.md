@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/java-333333?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-springboot-333333?style=flat&logo=spring-boot&logoColor=green" alt="Spring-boot">
+  <img src="https://img.shields.io/badge/-springboot-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
   <img src="https://img.shields.io/badge/-hibernate-333333?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
@@ -32,7 +32,6 @@
 <!-- Connect with Me -->
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-Your%20Email-red" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue" /></a>
-  <a href="https://twitter.com/your-twitter" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-Your%20Twitter-blue" /></a>
+  <a href="mailto:akashprajapati1849@gmail@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-Your%20Email-red" /></a>
+  <a href="https://www.linkedin.com/in/akash-prajapati-6378651b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue" /></a>
 </p>
