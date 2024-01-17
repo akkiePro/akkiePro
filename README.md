@@ -23,9 +23,10 @@
 <!-- Technologies -->
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white" alt="Tech 1">
-  <img src="https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white" alt="Tech 2">
-  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3&logoColor=white" alt="Tech 3">
+  <img src="https://img.shields.io/badge/-Tech1-333333?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Tech2-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
+  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
 <!-- Connect with Me -->
