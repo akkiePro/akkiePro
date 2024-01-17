@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-spring-boot-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
+  <img src="https://img.shields.io/badge/-springboot-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
   <img src="https://img.shields.io/badge/-hibernate-333333?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
