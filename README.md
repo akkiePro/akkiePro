@@ -24,9 +24,9 @@
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-Tech2-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
-  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/-Tech3-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-spring-boot-333333?style=flat&logo=spring-boot&logoColor=white" alt="Spring-boot">
+  <img src="https://img.shields.io/badge/-hibernate-333333?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
 <!-- Connect with Me -->
@@ -36,8 +36,3 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue" /></a>
   <a href="https://twitter.com/your-twitter" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-Your%20Twitter-blue" /></a>
 </p>
-
-<!-- JavaScript Interaction -->
-<script>
-  console.log("Hello, fellow developer! Feel free to explore and connect.");
-</script>
