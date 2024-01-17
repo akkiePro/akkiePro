@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Namaste! 👋</h1>
+<h1 align="center">Namaste! 🙏</h1>
 <p align="center">I'm Akash, a passionate developer creating awesome things with code.</p>
 
 <!-- Stats & Badges -->
