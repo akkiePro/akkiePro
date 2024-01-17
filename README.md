@@ -10,8 +10,8 @@
 <!-- Stats & Badges -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akkiePro&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiePro&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</p>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiePro&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</p> -->
 
 <p align="center">
   <!-- Add your own shields/badges here -->
