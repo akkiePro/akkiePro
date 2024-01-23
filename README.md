@@ -33,7 +33,7 @@
 <h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
   <a href="mailto:akashprajapati1849@gmail@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-akashprajapati1849@gmail.com-red" /></a>
-  <a href="https://twitter.com/akash1849" alt="Twitter"><img src="https://img.shields.io/badge/twitter-akash1849#8208-skyblue" /></a>
+  <a href="https://twitter.com/akash1849" alt="Twitter"><img src="https://img.shields.io/badge/twitter-akash1849-skyblue" /></a>
   <a href="https://www.linkedin.com/in/akash-prajapati-6378651b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-akash&;prajapati&#8208;6378651b4-blue" /></a>
-  <a href="https://www.instagram.com/atmp_143?igsh=bjdiNHlvaGlmMzRu" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-atmp_143#8208-lightgoldenrodyellow" /></a>
+  <a href="https://www.instagram.com/atmp_143?igsh=bjdiNHlvaGlmMzRu" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-atmp_143-lightgoldenrodyellow" /></a>
 </p>
