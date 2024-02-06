@@ -35,5 +35,5 @@
   <a href="mailto:akashprajapati1849@gmail@example.com" alt="Email"><img src="https://img.shields.io/badge/Email-akashprajapati1849@gmail.com-red" /></a>
   <a href="https://twitter.com/akash1849" alt="Twitter"><img src="https://img.shields.io/badge/twitter-akash1849-skyblue" /></a>
   <a href="https://www.linkedin.com/in/akash-prajapati-6378651b4/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-akash&#8208;prajapati&#8208;6378651b4-blue" /></a>
-  <a href="https://www.instagram.com/atmp_143?igsh=bjdiNHlvaGlmMzRu" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-atmp&lowbar;143-lightgoldenrodyellow" /></a>
+  <a href="https://www.instagram.com/atmp_143?igsh=bjdiNHlvaGlmMzRu" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-atmp&#95;143-lightgoldenrodyellow" /></a>
 </p>
