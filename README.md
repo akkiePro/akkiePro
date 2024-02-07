@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
   <img src="/akkiePro/blob/main/assets/hxyzeader.gif" alt="Header" width="100px" height="100px" />
+  ![Animated GIF](https://media.giphy.com/media/abc123/your_gif.gif](https://github.com/akkiePro/akkiePro/blob/main/blob/main/assets/hxyzeader.gif)
 </p>
 
 <!-- Introduction -->
