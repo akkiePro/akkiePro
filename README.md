@@ -1,8 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <div style="border:1px solid red; height: 150px; width: 150px">
-    <img src="/akkiePro/akkiePro/tree/main/blob/main/assets/hxyzeader.gif" alt="Header" width="100px" height="100px" />
-  </div>
+  <img src="/akkiePro/tree/main/blob/main/assets/hxyzeader.gif" alt="Header" width="100px" height="100px" />
 </p>
 
 <!-- Introduction -->
