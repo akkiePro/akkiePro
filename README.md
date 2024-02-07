@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <div>
-    <img src="https://github.com/akkiePro/akkiePro/tree/main/blob/main/assets/hxyzeader.gif" alt="Header" width="800px" height="100px" />
+  <div style="border:1px solid red; height: 150px; width: 150px">
+    <img src="https://github.com/akkiePro/akkiePro/tree/main/blob/main/assets/hxyzeader.gif" alt="Header" width="100px" height="100px" />
   </div>
 </p>
 
